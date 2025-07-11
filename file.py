@@ -22,4 +22,15 @@ def check():
         return True 
 
 check(7)
+
+#Code3
+for i in count(1):
+  if(i > 10):
+    break
+  if(i == 5):
+    i += 1
+    continue 
+  print(i)
  
+
+
